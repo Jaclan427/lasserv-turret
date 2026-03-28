@@ -51,12 +51,6 @@ The system translates input into servo angles, allowing the laser to track movem
 
 ---
 
-## Media
-
-(Add photos and/or a short demo video here)
-
----
-
 ## Notes
 
 This project was originally based on an open-source implementation, but was extended through hands-on building, testing, and performance tuning to better understand real-world servo control behavior.
